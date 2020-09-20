@@ -4675,7 +4675,7 @@ public final class R {
     public static final int ifRoom=0x7f080064;
     public static final int image=0x7f080065;
     public static final int info=0x7f080066;
-    public static final int input=0x7f080067;
+    public static final int inputDisplay=0x7f080067;
     public static final int italic=0x7f080068;
     public static final int item_touch_helper_previous_elevation=0x7f080069;
     public static final int labeled=0x7f08006a;

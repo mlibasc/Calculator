@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mei_8\\source\\repos\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\Mei_8\\Documents\\Personal Projects\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mei_8\\source\\repos\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\Mei_8\\Documents\\Personal Projects\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mei_8\\source\\repos\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Mei_8\\Documents\\Personal Projects\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Mei_8\\source\\repos\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\Mei_8\\Documents\\Personal Projects\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Mei_8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mei_8\\source\\repos\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\Mei_8\\Documents\\Personal Projects\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

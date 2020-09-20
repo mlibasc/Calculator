@@ -3529,7 +3529,7 @@ namespace Calculator
 			public const int info = 2131230822;
 			
 			// aapt resource value: 0x7F080067
-			public const int input = 2131230823;
+			public const int inputDisplay = 2131230823;
 			
 			// aapt resource value: 0x7F080068
 			public const int italic = 2131230824;
