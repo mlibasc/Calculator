@@ -8,7 +8,6 @@ color;obj\Debug\90\res\values\colors.xml
 color;obj\Debug\90\res\values\ic_launcher_background.xml
 color;obj\Debug\90\res\values\strings.xml
 dimen;obj\Debug\90\res\values\strings.xml
-EditText;obj\Debug\90\res\layout\activity_main.xml
 external-cache-path;C:\Users\Mei_8\Documents\Personal Projects\Calculator\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-path;C:\Users\Mei_8\Documents\Personal Projects\Calculator\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml

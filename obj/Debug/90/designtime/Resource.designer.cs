@@ -3631,7 +3631,7 @@ namespace Calculator
 			public const int outline = 2131230855;
 			
 			// aapt resource value: 0x7F080088
-			public const int output = 2131230856;
+			public const int outputDisplay = 2131230856;
 			
 			// aapt resource value: 0x7F080089
 			public const int parallax = 2131230857;

@@ -1101,7 +1101,7 @@ int id notification_background 0x7f08007c
 int id notification_main_column 0x7f08007d
 int id notification_main_column_container 0x7f08007e
 int id outline 0x7f08007f
-int id output 0x7f080080
+int id outputDisplay 0x7f080080
 int id parallax 0x7f080081
 int id parentPanel 0x7f080082
 int id parent_matrix 0x7f080083

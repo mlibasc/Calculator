@@ -15,7 +15,7 @@
 		android:inputType="text"
 		android:textSize="@dimen/inputSize"/>
 	<TextView
-		android:id="@+id/output"
+		android:id="@+id/outputDisplay"
 		android:text="@string/output"
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"

@@ -4700,7 +4700,7 @@ public final class R {
     public static final int notification_main_column=0x7f08007d;
     public static final int notification_main_column_container=0x7f08007e;
     public static final int outline=0x7f08007f;
-    public static final int output=0x7f080080;
+    public static final int outputDisplay=0x7f080080;
     public static final int parallax=0x7f080081;
     public static final int parentPanel=0x7f080082;
     public static final int parent_matrix=0x7f080083;
