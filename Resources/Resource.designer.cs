@@ -3337,40 +3337,40 @@ namespace Calculator
 			public const int button_add = 2131230760;
 			
 			// aapt resource value: 0x7F080029
-			public const int button_add_sub = 2131230761;
+			public const int button_clear = 2131230761;
 			
 			// aapt resource value: 0x7F08002A
-			public const int button_clear = 2131230762;
+			public const int button_divide = 2131230762;
 			
 			// aapt resource value: 0x7F08002B
-			public const int button_divide = 2131230763;
+			public const int button_eight = 2131230763;
 			
 			// aapt resource value: 0x7F08002C
-			public const int button_eight = 2131230764;
+			public const int button_equals = 2131230764;
 			
 			// aapt resource value: 0x7F08002D
-			public const int button_equals = 2131230765;
+			public const int button_five = 2131230765;
 			
 			// aapt resource value: 0x7F08002E
-			public const int button_five = 2131230766;
+			public const int button_four = 2131230766;
 			
 			// aapt resource value: 0x7F08002F
-			public const int button_four = 2131230767;
+			public const int button_multiply = 2131230767;
 			
 			// aapt resource value: 0x7F080030
-			public const int button_multiply = 2131230768;
+			public const int button_nine = 2131230768;
 			
 			// aapt resource value: 0x7F080031
-			public const int button_nine = 2131230769;
+			public const int button_one = 2131230769;
 			
 			// aapt resource value: 0x7F080032
-			public const int button_one = 2131230770;
+			public const int button_percent = 2131230770;
 			
 			// aapt resource value: 0x7F080033
-			public const int button_percent = 2131230771;
+			public const int button_period = 2131230771;
 			
 			// aapt resource value: 0x7F080034
-			public const int button_period = 2131230772;
+			public const int button_plus_minus = 2131230772;
 			
 			// aapt resource value: 0x7F080035
 			public const int button_seven = 2131230773;
@@ -4289,89 +4289,89 @@ namespace Calculator
 			// aapt resource value: 0x7F0D0028
 			public const int add = 2131558440;
 			
+			// aapt resource value: 0x7F0D002A
+			public const int appbar_scrolling_view_behavior = 2131558442;
+			
 			// aapt resource value: 0x7F0D0029
-			public const int add_sub = 2131558441;
+			public const int app_name = 2131558441;
 			
 			// aapt resource value: 0x7F0D002B
-			public const int appbar_scrolling_view_behavior = 2131558443;
-			
-			// aapt resource value: 0x7F0D002A
-			public const int app_name = 2131558442;
+			public const int bottom_sheet_behavior = 2131558443;
 			
 			// aapt resource value: 0x7F0D002C
-			public const int bottom_sheet_behavior = 2131558444;
+			public const int character_counter_content_description = 2131558444;
 			
 			// aapt resource value: 0x7F0D002D
-			public const int character_counter_content_description = 2131558445;
+			public const int character_counter_pattern = 2131558445;
 			
 			// aapt resource value: 0x7F0D002E
-			public const int character_counter_pattern = 2131558446;
+			public const int clear = 2131558446;
 			
 			// aapt resource value: 0x7F0D002F
-			public const int clear = 2131558447;
+			public const int divide = 2131558447;
 			
 			// aapt resource value: 0x7F0D0030
-			public const int divide = 2131558448;
+			public const int eight = 2131558448;
 			
 			// aapt resource value: 0x7F0D0031
-			public const int eight = 2131558449;
+			public const int equals = 2131558449;
 			
 			// aapt resource value: 0x7F0D0032
-			public const int equals = 2131558450;
+			public const int fab_transformation_scrim_behavior = 2131558450;
 			
 			// aapt resource value: 0x7F0D0033
-			public const int fab_transformation_scrim_behavior = 2131558451;
+			public const int fab_transformation_sheet_behavior = 2131558451;
 			
 			// aapt resource value: 0x7F0D0034
-			public const int fab_transformation_sheet_behavior = 2131558452;
+			public const int five = 2131558452;
 			
 			// aapt resource value: 0x7F0D0035
-			public const int five = 2131558453;
+			public const int four = 2131558453;
 			
 			// aapt resource value: 0x7F0D0036
-			public const int four = 2131558454;
+			public const int hide_bottom_view_on_scroll_behavior = 2131558454;
 			
 			// aapt resource value: 0x7F0D0037
-			public const int hide_bottom_view_on_scroll_behavior = 2131558455;
+			public const int input = 2131558455;
 			
 			// aapt resource value: 0x7F0D0038
-			public const int input = 2131558456;
+			public const int mtrl_chip_close_icon_content_description = 2131558456;
 			
 			// aapt resource value: 0x7F0D0039
-			public const int mtrl_chip_close_icon_content_description = 2131558457;
+			public const int multiply = 2131558457;
 			
 			// aapt resource value: 0x7F0D003A
-			public const int multiply = 2131558458;
+			public const int nine = 2131558458;
 			
 			// aapt resource value: 0x7F0D003B
-			public const int nine = 2131558459;
+			public const int one = 2131558459;
 			
 			// aapt resource value: 0x7F0D003C
-			public const int one = 2131558460;
+			public const int output = 2131558460;
 			
 			// aapt resource value: 0x7F0D003D
-			public const int output = 2131558461;
+			public const int password_toggle_content_description = 2131558461;
 			
 			// aapt resource value: 0x7F0D003E
-			public const int password_toggle_content_description = 2131558462;
+			public const int path_password_eye = 2131558462;
 			
 			// aapt resource value: 0x7F0D003F
-			public const int path_password_eye = 2131558463;
+			public const int path_password_eye_mask_strike_through = 2131558463;
 			
 			// aapt resource value: 0x7F0D0040
-			public const int path_password_eye_mask_strike_through = 2131558464;
+			public const int path_password_eye_mask_visible = 2131558464;
 			
 			// aapt resource value: 0x7F0D0041
-			public const int path_password_eye_mask_visible = 2131558465;
+			public const int path_password_strike_through = 2131558465;
 			
 			// aapt resource value: 0x7F0D0042
-			public const int path_password_strike_through = 2131558466;
+			public const int percentage = 2131558466;
 			
 			// aapt resource value: 0x7F0D0043
-			public const int percentage = 2131558467;
+			public const int period = 2131558467;
 			
 			// aapt resource value: 0x7F0D0044
-			public const int period = 2131558468;
+			public const int plus_minus = 2131558468;
 			
 			// aapt resource value: 0x7F0D0045
 			public const int search_menu_title = 2131558469;

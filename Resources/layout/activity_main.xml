@@ -33,16 +33,15 @@
 			android:layout_height="match_parent"
 			android:textSize="@dimen/buttonTextSize"
 			android:background="@color/button_background"
-			android:text="@string/clear"
-			android:onClick="ClearMath"/>
+			android:text="@string/clear"/>
 
 		<Button
-			android:id="@+id/button_add_sub"
+			android:id="@+id/button_plus_minus"
 			android:layout_width="match_parent"
 			android:layout_height="match_parent"
 			android:textSize="@dimen/buttonTextSize"
 			android:background="@color/button_background"
-			android:text="@string/add_sub"/>
+			android:text="@string/plus_minus"/>
 
 		<Button
 			android:id="@+id/button_percent"

@@ -24,6 +24,7 @@ namespace Calculator
             SetContentView(Resource.Layout.activity_main);
 
             input = FindViewById<TextView>(Resource.Id.inputDisplay);
+            output = FindViewById<TextView>(Resource.Id.outputDisplay);
         }
 
         [Java.Interop.Export("ButtonClick")]
@@ -81,10 +82,13 @@ namespace Calculator
 
             switch (@operator)
             {
-                case "/":
+                case "±":
+
+                    break;
+                case "÷":
                     result = first / second;
                     break;
-                case "x":
+                case "×":
                     result = first * second;
                     break;
                 case "+":
@@ -103,7 +107,7 @@ namespace Calculator
                 numbers[0] = result.ToString();
                 @operator = newOperator;
                 numbers[1] = null;
-                DisplaySym();
+                DisplayResult(result);
             }
         }
 
@@ -112,10 +116,12 @@ namespace Calculator
             numbers[0] = numbers[1] = null;
             @operator = null;
             DisplaySym();
+            DisplayResult(null);
 
         }
 
         private void DisplaySym() => input.Text = $"{numbers[0]} {@operator} {numbers[1]}";
+        private void DisplayResult(double? result) => output.Text = $"{result}";
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         {
             Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
