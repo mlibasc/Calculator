@@ -33,9 +33,10 @@ namespace Calculator
             Button button = (Button)v;
             if ("0123456789.".Contains(button.Text))
             {
-                //add the number or decimal 
+                //add the number or decimal to the string element
                 AddNumOrDec(button.Text);
-            }else if ("+-/x%".Contains(button.Text))
+            }
+            else if ("+-×÷%".Contains(button.Text))
             {
                 //perform operation
                 AddOperator(button.Text);
@@ -54,6 +55,7 @@ namespace Calculator
         // Concatenate characters to create numbers for calculation
         private void AddNumOrDec(string value)
         {
+            // keep this in mind when implementing negative numbers
             int ind = @operator == null ? 0 : 1;
 
             if (value == "." && numbers[ind].Contains(".")) return;
