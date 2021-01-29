@@ -4,7 +4,6 @@
 	<string name="input"></string>
 	<string name="output"></string>
 	<string name="clear">C</string>
-	<string name="plus_minus">±</string>
 	<string name="percentage">%</string>
 	<string name="divide">÷</string>
 	<string name="multiply">×</string>

@@ -36,14 +36,6 @@
 			android:text="@string/clear"/>
 
 		<Button
-			android:id="@+id/button_plus_minus"
-			android:layout_width="match_parent"
-			android:layout_height="match_parent"
-			android:textSize="@dimen/buttonTextSize"
-			android:background="@color/button_background"
-			android:text="@string/plus_minus"/>
-
-		<Button
 			android:id="@+id/button_percent"
 			android:layout_width="match_parent"
 			android:layout_height="match_parent"

@@ -84,9 +84,6 @@ namespace Calculator
 
             switch (@operator)
             {
-                case "±":
-
-                    break;
                 case "÷":
                     result = first / second;
                     break;
